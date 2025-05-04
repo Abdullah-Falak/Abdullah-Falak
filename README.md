@@ -1,13 +1,25 @@
 <h1 align="center">Hi 👋, I'm Abdullah Falak</h1>
-<h3 align="left">Hi, I’m Abdullah Falak 👨‍💻, a Web Developer at @LinkedIn with a passion for creating impactful digital experiences 🌐. Alongside my professional role, I’m pursuing a Bachelor’s degree in Computer Science 🎓, where I’m expanding my knowledge of software development and I’m equally zealous about learning cross-platform app development 📱 using tools like Flutter and React Native. My curiosity 🚀 drives me to constantly explore new technologies that enhance performance ⚙️, scalability 📈, and usability .</h3>
-
- <h3 align="left">I enjoy turning ideas 💡 into practical solutions—whether it’s developing new applications ‍💻, refining user interfaces , or integrating modern APIs and cloud services ☁️. My work blends technical precision 🛠️ with a user-centered mindset 🧠, and I always strive for clean, maintainable code that delivers real value. Lately, I have been keen into areas like DevOps 🔧, system design 🧱, and AI integration 🤖 in web apps.</h3>
- 
- <h3 align="left"> Beyond the code, I’m passionate about connecting with people and learning from different perspectives 🌍. I believe collaboration 🤝 and shared knowledge 📚 are key to innovation. Feel free to check out my projects 📂, reach out for collaboration , or just say hi 👋—I’m always open to new ideas and meaningful conversations 💬.</h3>
+<h3 align="center">Hi, I’m Abdullah Falak 👨‍💻, a Web Developer at @LinkedIn with a passion for creating impactful digital experiences 🌐. Alongside my professional role, I’m pursuing a Bachelor’s degree in Computer Science , where I’m expanding my knowledge of software development and I’m equally zealous about learning cross-platform app development  using tools like Flutter and React Native. My curiosity  drives me to constantly explore new technologies that enhance performance , scalability , and usability . </h3>
+<h3>I enjoy turning ideas  into practical solutions—whether it’s developing new applications ‍💻, refining user interfaces , or integrating modern APIs and cloud services . My work blends technical precision  with a user-centered mindset , and I always strive for clean, maintainable code that delivers real value. Lately, I have been keen into areas like DevOps , system design , and AI integration in web apps.</h3>
+ <h3>Beyond the code, I’m passionate about connecting with people and learning from different perspectives 🌍. I believe collaboration  and shared knowledge  are key to innovation. Feel free to check out my projects , reach out for collaboration , or just say hi —I’m always open to new ideas and meaningful conversations 💬.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-falak&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-falak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah-falak" alt="abdullah-falak" /></a> </p>
+
+- 🔭 I’m currently studying at Federal Urdu University **Quiz Platform**
+
+- 🌱 I’m currently learning and passionate about **App Development**
+
+- 👨‍💻 All of my projects are available at [https://abdullah-falak.github.io/Portfolio/#home](https://abdullah-falak.github.io/Portfolio/#home)
+
+- 📝 I uploaded blogs [https://abdullah-falak.github.io/Portfolio/#blogs](https://abdullah-falak.github.io/Portfolio/#blogs)
+
+- 📫 How to reach me **abdullahfalak000@gmail.com**
+
+- 📄 Know about my experiences [https://abdullah-falak.github.io/Portfolio/#resume](https://abdullah-falak.github.io/Portfolio/#resume)
+
+- ⚡ Fun fact **I enjoy blending creativity and logic—whether I’m building projects, writing essays across genres, or crafting imaginative prompts. Code and storytelling? Why not both.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +28,6 @@
 <a href="https://linkedin.com/in/abdullah-falak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-falak" height="30" width="40" /></a>
 <a href="https://kaggle.com/abdullahfalak000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdullahfalak000" height="30" width="40" /></a>
 <a href="https://instagram.com/abdullahfalak000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullahfalak000" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abdullahfalak000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdullahfalak000" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abdullah-falak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdullah-falak" height="30" width="40" /></a>
 <a href="https://discord.gg/9aKFEYuc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9aKFEYuc" height="30" width="40" /></a>
 </p>
@@ -29,4 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah-falak&show_icons=true&locale=en" alt="abdullah-falak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-falak&" alt="abdullah-falak" /></p>
-
