@@ -11,14 +11,13 @@
 
 - 🌱 I’m currently learning and passionate about **App Development**
 
-- 👨‍💻 All of my projects are available at [https://abdullah-falak.github.io/Portfolio/#home](https://abdullah-falak.github.io/Portfolio/#home)
+- 👨‍💻 Check out my Portfolio <a href="https://abdullah-falak.github.io/Portfolio/#home">Portfolio</a>)
 
-- 📝 I uploaded blogs about Computer Science[https://abdullah-falak.github.io/Portfolio/#blogs](https://abdullah-falak.github.io/Portfolio/#blogs)
+- 📝 I uploaded blogs about Computer Science<a href="https://abdullah-falak.github.io/Portfolio/#blogs">Blogs</a>
 
 - 📫 How to reach me **abdullahfalak000@gmail.com**
 
 - 📄 Know about my experiences <a href="https://abdullah-falak.github.io/Portfolio/#resume">Resume</a>
-- 
 
 - ⚡ Fun fact **I enjoy blending creativity and logic—whether I’m building projects, writing essays across genres, or crafting imaginative prompts. Code and storytelling? Why not both.**
 
