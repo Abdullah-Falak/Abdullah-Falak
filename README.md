@@ -17,8 +17,7 @@
 
 - 📫 How to reach me **abdullahfalak000@gmail.com**
 
-- 📄 Know about my experiences
-- <a href="https://abdullah-falak.github.io/Portfolio/#resume">Resume</a>
+- 📄 Know about my experiences<a href="https://abdullah-falak.github.io/Portfolio/#resume">Resume</a>
 - 
 
 - ⚡ Fun fact **I enjoy blending creativity and logic—whether I’m building projects, writing essays across genres, or crafting imaginative prompts. Code and storytelling? Why not both.**
