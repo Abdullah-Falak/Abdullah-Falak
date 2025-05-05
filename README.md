@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning and passionate about **App Development**
 
-- 👨‍💻 Check out my Portfolio <a href="https://abdullah-falak.github.io/Portfolio/#home">Portfolio</a>)
+- 👨‍💻 Check out my Portfolio <a href="https://abdullah-falak.github.io/Portfolio/#home">Portfolio</a>
 
 - 📝 I uploaded blogs about Computer Science<a href="https://abdullah-falak.github.io/Portfolio/#blogs">Blogs</a>
 
