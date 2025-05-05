@@ -13,7 +13,7 @@
 
 - 👨‍💻 Check out my Portfolio <a href="https://abdullah-falak.github.io/Portfolio/#home">Portfolio</a>
 
-- 📝 I uploaded blogs about Computer Science<a href="https://abdullah-falak.github.io/Portfolio/#blogs">Blogs</a>
+- 📝 I uploaded blogs about Computer Science <a href="https://abdullah-falak.github.io/Portfolio/#blogs">Blogs</a>
 
 - 📫 How to reach me **abdullahfalak000@gmail.com**
 
