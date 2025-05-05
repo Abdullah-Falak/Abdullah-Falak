@@ -13,11 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [https://abdullah-falak.github.io/Portfolio/#home](https://abdullah-falak.github.io/Portfolio/#home)
 
-- 📝 I uploaded blogs [https://abdullah-falak.github.io/Portfolio/#blogs](https://abdullah-falak.github.io/Portfolio/#blogs)
+- 📝 I uploaded blogs about Computer Science[https://abdullah-falak.github.io/Portfolio/#blogs](https://abdullah-falak.github.io/Portfolio/#blogs)
 
 - 📫 How to reach me **abdullahfalak000@gmail.com**
 
-- 📄 Know about my experiences [https://abdullah-falak.github.io/Portfolio/#resume](https://abdullah-falak.github.io/Portfolio/#resume)
+- 📄 Know about my experiences [https://abdullah-falak.github.io/Portfolio/#resume]
+- (<a href="https://abdullah-falak.github.io/Portfolio/#resume">Resume</a>
+- )
 
 - ⚡ Fun fact **I enjoy blending creativity and logic—whether I’m building projects, writing essays across genres, or crafting imaginative prompts. Code and storytelling? Why not both.**
 
