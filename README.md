@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Falak</h1>
-<h3 align="left">Hi, I’m Abdullah Falak 👨‍💻, a Web Developer at @LinkedIn with a passion for creating impactful digital experiences 🌐. Alongside my professional role, I’m pursuing a Bachelor’s degree in Computer Science , where I’m expanding my knowledge of software development and I’m equally zealous about learning cross-platform app development  using tools like Flutter and React Native. My curiosity  drives me to constantly explore new technologies that enhance performance , scalability , and usability . </h3>
+<h3 align="left">Hi, I’m Abdullah Falak , a Web Developer at @LinkedIn with a passion for creating impactful digital experiences 🌐. Alongside my professional role, I’m pursuing a Bachelor’s degree in Computer Science , where I’m expanding my knowledge of software development and I’m equally zealous about learning cross-platform app development  using tools like Flutter and React Native. My curiosity  drives me to constantly explore new technologies that enhance performance , scalability , and usability . </h3>
 <h3 align="left">I enjoy turning ideas  into practical solutions—whether it’s developing new applications ‍💻, refining user interfaces , or integrating modern APIs and cloud services . My work blends technical precision  with a user-centered mindset , and I always strive for clean, maintainable code that delivers real value. Lately, I have been keen into areas like DevOps , system design , and AI integration in web apps.</h3>
  <h3 align="left">Beyond the code, I’m passionate about connecting with people and learning from different perspectives 🌍. I believe collaboration  and shared knowledge  are key to innovation. Feel free to check out my projects , reach out for collaboration , or just say hi —I’m always open to new ideas and meaningful conversations 💬.</h3>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning and passionate about **App Development**
 
-- 👨‍💻 Check out my Portfolio <a href="https://abdullah-falak.github.io/Portfolio/#home">Portfolio</a>
+- 👨‍💻 Check out my Portfolio <a href="https://abdullah-falak.github.io/Portfolio/">Portfolio</a>
 
 - 📝 I uploaded blogs about Computer Science <a href="https://abdullah-falak.github.io/Portfolio/#blogs">Blogs</a>
 
