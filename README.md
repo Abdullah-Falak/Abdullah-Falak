@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah-falak" alt="abdullah-falak" /></a> </p>
 
-- 🔭 I’m currently studying at Federal Urdu University **Quiz Platform**
+- 🔭 I’m currently studying at Federal Urdu University and working on a project **Quiz Platform**
 
 - 🌱 I’m currently learning and passionate about **App Development**
 
